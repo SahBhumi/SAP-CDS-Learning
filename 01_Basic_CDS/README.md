@@ -1,4 +1,4 @@
-# Basic CDS Views2 
+# Basic CDS Views
 This folder contains my CDS View learning examples.
 Topics Covered:- 
 Basic Select 
