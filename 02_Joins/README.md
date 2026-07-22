@@ -6,3 +6,4 @@ Topics Covered:-
 - Inner Join
 - Left Outer join
 - Right Outer Join
+- Multiple table joins
