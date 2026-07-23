@@ -15,6 +15,7 @@ Cardinality
 - Understand Association concept
 - Understand Cardianlity
 - Understand Types of Cardinality
+- Exposing of association at last Ex:- _Text
 ### Types of Cardinality
 #### 1. [0...1]
 - Zero or one record
