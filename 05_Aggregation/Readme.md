@@ -9,20 +9,18 @@ Topics Covered:-
 
 ## Objects
 
-### 1. Single Paramaterised CDS
-- ZCDS_params.abap
-- ZCDS_params_Explanation.md
-### 2. Multiple parameterised CDS
-- ZCDS_multiple_params.abap
-- ZCDS_multiple_params_Explanation.md
-
-
+### 1. Aggragation 1 - GROUP By 
+- ZAggregation1.abap
+- ZAggregation1_Explanation.md
+### 2. Aggregation 2 - GROUP By + HAVING
+- ZAggregation2.abap
+- ZAggregation2_Explanation.md
 
 ## Learning Outcome
 
-- Understand Parameterised CDS
-- Understand multiple parameterised CDS
-- Understand how to access parmeters inside CDS
-- Understand Path Expression
+- Understand Aggregation in CDS
+- Understand Syntax of Aggregate functions
+- Use of GROUP BY for non aggregated fields
+- Use of hAVING clause with GROUP BY
 
 
