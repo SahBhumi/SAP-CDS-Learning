@@ -1,13 +1,14 @@
-# Analytical CDS
+# Analytical
 
-Topics Learned:
-- Cube Views
-- Query Views
-- Aggregations
-- Measures and Dimensions
+Topics covered :-
+- Analytical CDS
 
-Purpose:
-Used for reporting and analytics.
+## Objects
+### 1. UNION
+- Analytical_Notes.md
+### 2. UNION ALL
+- UNION_ALL_Notes.md
 
-Learning Outcome:
-Understood the analytical modeling approach in CDS.
+## Learning Outcome:
+Understood how UNION and UNION ALL works in CDS Views. Difference between UNION and UNION ALL.
+
