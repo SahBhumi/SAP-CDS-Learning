@@ -2,11 +2,12 @@
 
 Topics covered :-
 - Table functions
+- AMDP
 
 ## Objects
-### 1. Analytical
-- Analytical_Notes.md
+### 1. Table function
+- Table_function_AMDP_Notes.md
 
 ## Learning Outcome:
-Understood dimension and measure in Analytical CDS. How it helps in segregating the code in sections.
+Understand Table function and why it is preferred over CDS when logic is complicated. 
 
